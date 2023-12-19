@@ -1,0 +1,83 @@
+
+.body, html {
+    width: 1440px;
+    height: 900px;
+    border-radius: 30px;
+    /* background: #101010; */
+}
+
+
+.h3 {
+    color: #262A41;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    width: 195px;
+    font-weight: 600;
+    line-height: 50px; /* 125% */
+    letter-spacing: 0.667px;
+    margin-left: 280px;
+    
+}
+
+.date {
+    color: #101010;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.343px;
+    opacity: 0.5;
+    margin-left: 280px;
+}
+.sidebar {
+    width: 197px;
+    height: 651px;
+    flex-shrink: 0;
+}
+
+.img1 {
+    width: 105px;
+    height: 157px;
+    flex-shrink: 0;
+}
+
+.name {
+    /* color: #FFF; */
+
+    width: 163px;
+    height: 35px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px; /* 116.667% */
+    
+}
+.email {
+    /* color: #FFF; */
+    width: 197px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 158.824% */
+    opacity: 0.6;
+}
+
+.menu {
+    width: 142px;
+    height: 360px;
+    flex-shrink: 0;
+}
+.ul {
+    /* color: #FFF; */
+    width: 142px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px; /* 140% */
+    opacity: 0.5;
+}
