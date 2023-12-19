@@ -20,6 +20,12 @@
     margin-left: 280px;
 }
 
+.users {
+    width: 122.956px;
+    height: 31.2px;
+    flex-shrink: 0;
+    margin-left: 665px;
+}
 .date {
     color: #101010;
     font-family: Poppins;
@@ -29,6 +35,39 @@
     line-height: normal;
     letter-spacing: 0.343px;
     opacity: 0.5;
+    margin-left: 280px;
+}
+
+.image {
+    width: 510px;
+    height: 60px;
+    flex-shrink: 0;
+    margin-left: 280px;
+}
+
+.today {
+    color: #262A41;
+    font-family: AvenirNext;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    letter-spacing: 0.3px;
+    margin-left: 280px;
+}
+
+.group3 {
+    margin-left: 630px;
+    va
+}
+
+.group41 {
+    margin-left: 280px;
+}
+.group42 {
+    margin-left: 280px;
+}
+.group43 {
     margin-left: 280px;
 }
 .sidebar {
